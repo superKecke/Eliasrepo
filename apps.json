@@ -1,0 +1,17 @@
+{
+  "name": "Eliasrepo",
+  "identifier": "com.elias.altstoresource",
+  "apps": [
+    {
+      "name": "Switchgear",
+      "bundleIdentifier": "com.rldv1.switchgear",
+      "developerName": "rldv1",
+      "version": "60.399",
+      "versionDate": "2025-04-18",
+      "versionDescription": "- Brawl Stars Mod Release v60.399",
+      "downloadURL": "https://deinname.github.io/altstore-source/switchgear.ipa",
+      "iconURL": "https://deinname.github.io/altstore-source/icon.png",
+      "tintColor": "orange"
+    }
+  ]
+}
